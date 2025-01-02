@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "nom": "Dupont",
+    "prenom": "Jean",
+    "dateNaissance": "2005-01-01",
+    "lieuNaissance": "Niamey",
+    "sexe": "Masculin",
+    "email": "jean.dupont@example.com",
+    "adresse": "123 Rue de l'École, Niamey",
+    "numCandidat": "001",
+    "numParent": "9876543210",
+    "classe": "Terminale",
+    "anneeScolaire": "2024-2025"
+  },
+  {
+    "nom": "Doe",
+    "prenom": "Jane",
+    "dateNaissance": "2006-02-15",
+    "lieuNaissance": "Zinder",
+    "sexe": "Féminin",
+    "email": "jane.doe@example.com",
+    "adresse": "456 Avenue des Études, Zinder",
+    "numCandidat": "002",
+    "numParent": "0123456789",
+    "classe": "Première",
+    "anneeScolaire": "2024-2025"
+  }
+]
